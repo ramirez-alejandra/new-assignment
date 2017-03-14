@@ -1,7 +1,7 @@
 h1{
   color:red;
   font-size: 50px;
-  font-style: oblique;
+  font-style: unset;
 }
 p{
   color: pink;
@@ -10,5 +10,5 @@ p{
 h2{
   color:purple;
   font-size: 30px;
-  font-style: oblique;
+  font-style: unset;
 }
