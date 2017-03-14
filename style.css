@@ -3,11 +3,12 @@ h1{
   font-size: 50px;
   font-style: oblique;
 }
-h2{
-  color: purple;
-  font-size: 40px;
-}
 p{
   color: pink;
   font-size: 25px;
+}
+h2{
+  color:purple;
+  font-size: 30px;
+  font-style: oblique;
 }
