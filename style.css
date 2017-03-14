@@ -1,13 +1,13 @@
 h1{
   color:red;
-  font-size: : 75px;
+  font-size: 50px;
+  font-style: oblique;
 }
 h2{
   color: green;
-  font-style: italic;
-  font-size: 50px
+  font-size: 40px;
 }
 p{
   color: pink;
-  font-size: :50px;
+  font-size: 25px;
 }
