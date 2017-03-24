@@ -12,3 +12,8 @@ h2{
   font-size: 30px;
   font-style: unset;
 }
+#goal{
+  height:50%;
+  width: auto;
+  margin: auto;
+}
